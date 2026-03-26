@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "E:/MRT 26/Controller/Controller Hardware/PCB/Controller V2/footprints")(options "")(descr ""))
+)
